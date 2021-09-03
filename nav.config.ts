@@ -11,10 +11,10 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: true,
+  showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'http://www.06zg.com',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
