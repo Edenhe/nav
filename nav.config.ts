@@ -17,13 +17,13 @@ const c: IConfig = {
   homeUrl: 'http://www.06zg.com',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '未来数据官导航 - 精选实用数据人导航网站',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '未来数据官导航 - 精选实用数据人导航网站',
 
   // 网站关键字
-  keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
+  keywords: '导航,数据仓库,数据官,数据挖掘,大数据,数据产品,数据运营,数据安全,数据挖掘',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
   theme: 'Sim',
